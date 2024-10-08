@@ -1,0 +1,45 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+   
+.container2{
+    height: 300px;
+    width: 400px;
+    background: white;
+    margin-top: 80px;
+    
+}
+.container3{
+    display: flex;
+    gap: 20px;
+    margin-top:30px ;
+  margin-right: 25px;
+    margin-left: 25px;
+}
+.container4{
+    display: flex;
+    gap: 20px;
+    
+    margin-top: 30px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.container5{
+    display: flex;
+    gap: 20px;
+   margin-top: 30px;
+
+margin-right: 25px;
+   margin-left: 25px;} 
+          
+#form,#form2,#from3,#Address,#city,#Date,#number{
+    border-color: orange;
+}

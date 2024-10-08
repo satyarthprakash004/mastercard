@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    color: orange;
+}
+a{
+    margin-right: 300px;
+}
+
+#navbar{
+    padding-top: 10px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    
+    
+}
+button{
+    color: white;
+}
